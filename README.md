@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-Projeto proposto pelo professor Chad Darby dedicado a criação de uma página web que cumpra as funções de inserção, remoção e atualização de usuários de um banco de dados utilizando as tecnologias Spring MVC, Hibernate e MySQL Workbranch.
+Projeto proposto pelo professor Chad Darby dedicado a criação de uma página web que cumpra as funções de inserção, remoção e atualização de usuários de um banco de dados utilizando as tecnologias Spring MVC, Hibernate e MySQL WorkBench.
 
 ## Tecnologias Utilizadas
 
